@@ -1,0 +1,21 @@
+C:\Users\ESPINTOR\Desktop\Fortnite-Redirect-main\Fortnite Redirect\Fortnite Redirect\bin\Debug\Fortnite Redirect.exe.config
+C:\Users\ESPINTOR\Desktop\Fortnite-Redirect-main\Fortnite Redirect\Fortnite Redirect\bin\Debug\Fortnite Redirect.exe
+C:\Users\ESPINTOR\Desktop\Fortnite-Redirect-main\Fortnite Redirect\Fortnite Redirect\bin\Debug\Fortnite Redirect.pdb
+C:\Users\ESPINTOR\Desktop\Fortnite-Redirect-main\Fortnite Redirect\Fortnite Redirect\bin\Debug\BCMakeCert.dll
+C:\Users\ESPINTOR\Desktop\Fortnite-Redirect-main\Fortnite Redirect\Fortnite Redirect\bin\Debug\DotNetZip.dll
+C:\Users\ESPINTOR\Desktop\Fortnite-Redirect-main\Fortnite Redirect\Fortnite Redirect\bin\Debug\FiddlerCore.dll
+C:\Users\ESPINTOR\Desktop\Fortnite-Redirect-main\Fortnite Redirect\Fortnite Redirect\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\ESPINTOR\Desktop\Fortnite-Redirect-main\Fortnite Redirect\Fortnite Redirect\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ESPINTOR\Desktop\Fortnite-Redirect-main\Fortnite Redirect\Fortnite Redirect\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ESPINTOR\Desktop\Fortnite-Redirect-main\Fortnite Redirect\Fortnite Redirect\bin\Debug\Telerik.NetworkConnections.dll
+C:\Users\ESPINTOR\Desktop\Fortnite-Redirect-main\Fortnite Redirect\Fortnite Redirect\bin\Debug\DotNetZip.pdb
+C:\Users\ESPINTOR\Desktop\Fortnite-Redirect-main\Fortnite Redirect\Fortnite Redirect\bin\Debug\DotNetZip.xml
+C:\Users\ESPINTOR\Desktop\Fortnite-Redirect-main\Fortnite Redirect\Fortnite Redirect\bin\Debug\FiddlerCore.pdb
+C:\Users\ESPINTOR\Desktop\Fortnite-Redirect-main\Fortnite Redirect\Fortnite Redirect\bin\Debug\FiddlerCore.xml
+C:\Users\ESPINTOR\Desktop\Fortnite-Redirect-main\Fortnite Redirect\Fortnite Redirect\bin\Debug\Telerik.NetworkConnections.pdb
+C:\Users\ESPINTOR\Desktop\Fortnite-Redirect-main\Fortnite Redirect\Fortnite Redirect\bin\Debug\Telerik.NetworkConnections.xml
+C:\Users\ESPINTOR\Desktop\Fortnite-Redirect-main\Fortnite Redirect\Fortnite Redirect\obj\Debug\Fortnite Redirect.csproj.AssemblyReference.cache
+C:\Users\ESPINTOR\Desktop\Fortnite-Redirect-main\Fortnite Redirect\Fortnite Redirect\obj\Debug\Fortnite Redirect.csproj.CoreCompileInputs.cache
+C:\Users\ESPINTOR\Desktop\Fortnite-Redirect-main\Fortnite Redirect\Fortnite Redirect\obj\Debug\Fortnite.76330A9E.Up2Date
+C:\Users\ESPINTOR\Desktop\Fortnite-Redirect-main\Fortnite Redirect\Fortnite Redirect\obj\Debug\Fortnite Redirect.exe
+C:\Users\ESPINTOR\Desktop\Fortnite-Redirect-main\Fortnite Redirect\Fortnite Redirect\obj\Debug\Fortnite Redirect.pdb
